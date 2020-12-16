@@ -20,7 +20,7 @@ vi) Create a model for KNN using the function fitcknn() using training feature v
 labels.
 
 
-Testing Phase
+Testing Phase:-
 
 i) Read a printed English text with at least 3 lines.
 
